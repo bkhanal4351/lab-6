@@ -15,6 +15,7 @@ let hob = prompt("What is Bishal's Hobby");
     }
     else {
         alert("sorry try again")
+        propmtUserForInput();
     }
 
     return 0;
